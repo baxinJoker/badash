@@ -1,2 +1,1 @@
-# badash
-functions of mine used
+# Getting started
