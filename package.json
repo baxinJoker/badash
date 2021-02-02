@@ -1,6 +1,6 @@
 {
   "name": "badash",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "first package",
   "main": "index.js",
   "scripts": {
