@@ -11,5 +11,9 @@
     "url": "https://github.com/baxinJoker/badash.git"
   },
   "author": "baxin",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "moment": "^2.29.1"
+  }
 }
